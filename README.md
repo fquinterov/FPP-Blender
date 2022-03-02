@@ -15,4 +15,4 @@ In this project we propose the implementation of a digital twin to simulate the 
 ## Set-up and Installation
 1. Download and install the **Blender Projector Add-on** from this repository. [Guide to installing plugins in Blender](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html)
 2. If you have **CUDA-compatible graphics**, you can select it for rendering in the following settings. *Blender Preferences > System > Cycles Render Devices > CUDA.
-3. Install OpenCV and Scipy in Blender.
+3. Install OpenCV and Scipy in Blender. Aquí recomiendo instalar los paquetes en tu instalación de Python y luego copiarlos en la ruta `C:/Program Files/Blender Foundation/Blender 3.x/3.x/python/lib/site-packages/`
