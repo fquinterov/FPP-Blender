@@ -10,7 +10,7 @@ In this project we propose the implementation of a digital twin to simulate the 
 - [OpenCV](https://opencv.org/)
 - [Projector Add-on for Blender](https://github.com/Ocupe/Projectors)
 
-***All necessary dependencies and software are Open-Sourse**
+***All necessary dependencies and software are Open-Sourse***
 
 ### Set-up and Installation
 1. Download and install the **Blender Projector Add-on** from this repository. [Guide to installing plugins in Blender](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html)
